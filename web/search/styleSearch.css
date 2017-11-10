@@ -1,0 +1,68 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 06/11/2017, 10:38:48
+    Author     : Yuri.Ramos
+*/
+
+div.header{
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    top: 0%;
+    width: 1000px;
+    margin: auto;
+    background-color: black;
+    border: 1px solid;
+}
+
+#logo{
+    position: relative;
+    left: 0%;
+    right: 0%;
+    width: 70px;
+    height: 70px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url(http://www.cinemadianzio.it/images/movie_icon%20-%20Copia.png);
+    border-color: whitesmoke;
+    border: 1px solid;
+}
+
+#brecha{
+    width: 17px;
+}
+
+#brecha2{
+    width: 1px;
+}
+
+#selectComboBox{
+    height: 50px;
+    width: 93px;
+    font-size: 18px;
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px black;
+}
+
+#titleTextField{
+    color: grey;
+    width: 725px;
+    height: 45px;
+    text-align: left;
+    font-size: 20px;
+}
+
+#ButtonSearch{
+    background:url(http://pimg.p30download.com/APK_IMG/a/com.a2.kai.yolatimkiemtatca/icon/icon_2_small.png) no-repeat; 
+    background-size: contain;
+    cursor: pointer;
+    border: none;
+    width: 60px;
+    height: 55px;
+}
+
